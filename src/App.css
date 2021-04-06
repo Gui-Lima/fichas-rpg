@@ -1,5 +1,16 @@
+::-webkit-scrollbar {
+  height: 4px; /* height of horizontal scrollbar ← You're missing this */
+  width: 4px; /* width of vertical scrollbar */
+  border: 1px solid #000;
+}
+
+#root {
+  overflow: hidden;
+}
+
 .App {
   text-align: center;
+  overflow: "hidden";
 }
 
 .App-logo {
