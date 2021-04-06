@@ -74,7 +74,6 @@ function App() {
     if(!files || !files[0]){
       return 
     }
-    console.log("alo")
 
     const file = files[0]
     let json = {}
