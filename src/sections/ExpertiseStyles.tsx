@@ -11,7 +11,7 @@ const useStyles = makeStyles((theme)=> ({
     borderWidth: 1,
     borderColor: "#FFF",
     maxHeight: 200,
-    overflow: "auto"
+    overflow: "hidden"
   }
 }))
 
