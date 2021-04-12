@@ -19,6 +19,9 @@ import { createEquipment } from './models/EquipmentModel';
 import AdditionalInfo from './sections/AdditionalInfo';
 import { createAdditionalInfo } from './models/AdditionalInfoModel';
 import RollDiceDialog from './components/RollDiceDialog';
+/*
+   OI MALU E WALBY
+*/
 
 function App() {
   const classes = useStyles()
