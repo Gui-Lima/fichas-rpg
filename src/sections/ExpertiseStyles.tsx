@@ -9,7 +9,9 @@ const useStyles = makeStyles((theme)=> ({
     borderRadius: 4,
     borderStyle: "solid",
     borderWidth: 1,
-    borderColor: "#FFF"  
+    borderColor: "#FFF",
+    maxHeight: 200,
+    overflow: "auto"
   }
 }))
 
